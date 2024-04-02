@@ -1,0 +1,11 @@
+{
+  "name": "next-foundations",
+  "version": "1.0.0",
+  "description": "Curso oferecido no portal da ferramenta Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
